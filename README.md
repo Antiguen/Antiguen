@@ -4,7 +4,7 @@ Hi there 👋 I'm Yordanos!
 
 <h1 align="center">Hi there, I'm Yordanos 👋</h1>
 <p align="center">
-  <em>Software Engineering Student | Frontend Developer | Aspiring Backend Engineer</em>
+  <em>Software Engineering Student | Frontend Developer | Aspiring Backend Engineer | Passionate in Network Engineering </em>
 </p>
 
 ---
@@ -53,7 +53,7 @@ Hi there 👋 I'm Yordanos!
 ### 📫 Contact Me
 
 - 📧 <strong>Email:</strong> yordabsa@gmail.com
-- 💼 <strong>LinkedIn:</strong> [Yordanos Abay](https://www.linkedin.com/in/yordanos-abay-0baa50320)
+- 💼 <strong>LinkedIn:</strong> [Yordanos Abay](https://www.linkedin.com/in/yordanos-abay-a8573939b/)
 
 ---
 
