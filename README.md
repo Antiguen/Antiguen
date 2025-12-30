@@ -66,5 +66,8 @@ Hi there 👋 I'm Yordanos!
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Antiguen&show_icons=true&theme=tokyonight" alt="Antiguen's GitHub stats" />
+  <img src="https://fashion-blog-sra6.onrender.com" alt="Antiguen's Fashion blog project" />
+</div>
+<div align="center">
+  <img src="https://landing-page-zg6t.onrender.com" alt="Antiguen's Landing page project" />
 </div>
