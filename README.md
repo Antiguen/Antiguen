@@ -29,6 +29,8 @@ Hi there 👋 I'm Yordanos!
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Packet%20Tracer-0078D4?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GNS3-1E1E1E?style=for-the-badge&logo=gns3&logoColor=white"/>
 </p>
 
 ---
