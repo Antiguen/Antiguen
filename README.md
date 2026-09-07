@@ -1,6 +1,6 @@
 # Hi there, I'm Yordanos 👋
 
-*Software Engineering Student | Network Engineering Focus | Cloud & Infrastructure*
+*Software Engineering Student | Focused on Network Engineering  *
 
 ---
 
