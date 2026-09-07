@@ -1,45 +1,41 @@
-<!--
-Hi there 👋 I'm Yordanos!
--->
+# Hi there, I'm Yordanos 👋
 
-<h1 align="center">Hi there, I'm Yordanos 👋</h1>
-<p align="center">
-  <em>Software Engineering Student | Frontend Developer | Aspiring Backend Engineer | Passionate in Network Engineering </em>
-</p>
+*Software Engineering Student | Network Engineering Focus | Cloud & Infrastructure*
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🎓 I’m a passionate <strong>Software Engineering student</strong> specializing in <strong>Frontend Development</strong>.
-- 🛠️ Currently expanding my horizons into <strong>Backend (Django)</strong> development.
-- 🎨 I love blending creativity and logic as a <strong>UX/UI designer</strong> on select projects.
-- 📚 Always learning, reading, and creating new things.
+- 🎓 4th-year Software Engineering student at Addis Ababa University, currently focused on **network engineering and cloud infrastructure**.
+- 🌐 My journey started in frontend development and UX/UI design — I spent my early years building interfaces and thinking about user experience. When it came time to choose a specialization stream (Software Development, AI, Cybersecurity, or IT), I chose **IT**, and that's where everything clicked.
+- ⚡ Once I got hands-on with subnetting, routing, and switching, I was hooked — there's something I genuinely love about the logic of how networks are built and how they hold together. That interest turned into a full redirection of my final year toward networking.
+- ☁️ Completed a 5-month Cloud Computing internship at **INSA** (Information Network Security Administration), Ethiopia's national cybersecurity agency — working hands-on with OpenStack, Keystone, and Proxmox.
+- 📡 Currently pursuing the **CCNA certification track** through Cisco Networking Academy (NetAcad) — completed *Introduction to Networks*, in progress on *Switching, Routing, and Wireless Essentials* and *Enterprise Networking, Security, and Automation*.
+- 🛠️ Hands-on experience building enterprise-style networks (VLANs, DHCP, NAT, static/OSPF routing) using Cisco Packet Tracer and GNS3.
+- 🎨 Still carry my frontend/UX-UI roots with me — that background shapes how I think about clarity and usability, even in infrastructure work.
 
 ---
 
 ### 🚀 Tech Stack & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Packet%20Tracer-0078D4?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GNS3-1E1E1E?style=for-the-badge&logo=gns3&logoColor=white"/>
-</p>
+**Networking & Cloud (current focus)**
 
----
+![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-1E1E2E?style=for-the-badge&logo=gns3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
-### 🏆 Favorite Project
+**Frontend & Development (where I started)**
 
-#### 🚗 Swift Mobility
-> <em>Frontend Developer & UX/UI Designer</em>  
-> I contributed as a frontend developer and UX/UI designer to the Swift Mobility project, building intuitive user experiences and dynamic interfaces.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ---
 
@@ -47,27 +43,17 @@ Hi there 👋 I'm Yordanos!
 
 - 📖 Reading
 - 📝 Writing
-- 🚀 Learning new things
-- 🛠️ Creating cool projects
+- 🛠 Building
 
 ---
 
 ### 📫 Contact Me
 
-- 📧 <strong>Email:</strong> yordabsa@gmail.com
-- 💼 <strong>LinkedIn:</strong> [Yordanos Abay](https://www.linkedin.com/in/yordanos-abay-a8573939b/)
+- 📧 **Email:** yordabsa@gmail.com
+
 
 ---
 
-### ✨ Fun Fact / Motto
+### ✨ Motto
 
-> <strong>Be kind.</strong> 😊
-
----
-
-<div align="center">
-  <img src="https://fashion-blog-sra6.onrender.com" alt="Antiguen's Fashion blog project" />
-</div>
-<div align="center">
-  <img src="https://landing-page-zg6t.onrender.com" alt="Antiguen's Landing page project" />
-</div>
+> **Be kind.** 😊
